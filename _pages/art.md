@@ -5,7 +5,7 @@ permalink: /arts/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [fun]
+display_categories: [2D,3D]
 horizontal: false
 ---
 
