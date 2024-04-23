@@ -3,7 +3,7 @@ layout: page
 title: blue maze
 description: digital painting, 2024
 img: assets/img/blue_maze.png
-importance: 3
+year: 2024
 category: 2D
 ---
 

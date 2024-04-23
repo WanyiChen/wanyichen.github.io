@@ -3,7 +3,7 @@ layout: page
 title: bloom
 description: digital painting, 2021
 img: assets/img/bloom.png
-importance: 3
+year: 2021
 category: 2D
 ---
 

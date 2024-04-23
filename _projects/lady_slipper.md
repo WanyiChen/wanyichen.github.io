@@ -3,7 +3,7 @@ layout: page
 title: lady slipper
 description: mixed media, 2023
 img: assets/img/lady_slipper.jpg
-importance: 3
+year: 2023
 category: 2D
 ---
 
