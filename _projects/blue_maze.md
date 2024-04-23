@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bloom
+title: blue maze
 description: digital painting, 2024
 img: assets/img/blue_maze.png
 importance: 3
