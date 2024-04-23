@@ -4,7 +4,7 @@ title: bloom
 description: digital painting, 2021
 img: assets/img/bloom.png
 importance: 3
-category: fun
+category: 2D
 ---
 
 Ever noticed a beautiful flower by the side of the road? It has been waiting for you for a long time.
