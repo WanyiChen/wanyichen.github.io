@@ -2,7 +2,7 @@
 layout: page
 title: arts
 permalink: /arts/
-description: A growing collection of your cool projects.
+description: I love the creative process. I love wild imaginations and unexpected colors.
 nav: true
 nav_order: 3
 display_categories: [2D,3D]

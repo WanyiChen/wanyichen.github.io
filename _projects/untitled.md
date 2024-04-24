@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bloom
+title: untitled
 description: digital painting, 2020
 img: assets/img/untitled.PNG
 year: 2020
