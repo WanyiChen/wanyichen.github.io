@@ -7,7 +7,7 @@ year: 2020
 category: 2D
 ---
 
-A practice portrait.
+A practice portrait with colors inspired by Dunhuang art.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
