@@ -4,7 +4,7 @@ title: arts
 permalink: /arts/
 description: I love the creative process. I love wild imaginations and unexpected colors.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [2D,3D]
 horizontal: false
 ---
